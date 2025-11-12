@@ -2,7 +2,7 @@
 **Co-Founder @ Cyber Sierra ｜ Building AI Systems for Cyber Risk & GRC**
 
 I build products where **AI, cybersecurity, and enterprise software** intersect.  
-At [Cyber Sierra](https://cybersierra.co), my team and I are developing an **agentic Cyber GRC platform** — automating continuous controls monitoring (CCM), third-party risk management (TPRM), and compliance for modern enterprises.
+At [Cyber Sierra](https://cybersierra.co), my team and I are developing an **agentic Cyber GRC platform**, automating continuous controls monitoring (CCM), third-party risk management (TPRM), and compliance for modern enterprises.
 
 ---
 
